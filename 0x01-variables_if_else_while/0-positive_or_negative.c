@@ -2,13 +2,12 @@
 #include <stdlib.h>
 #include <time.h>
 
+/**
+ * print the status of a number whether positive, negative or zero
+ */
+
 int main(void)
 {
-	
-	/**
-	 * print the status of a number whether positive, negative or zero
-	*/
-
 	int n;
 
 	srand(time(0));
