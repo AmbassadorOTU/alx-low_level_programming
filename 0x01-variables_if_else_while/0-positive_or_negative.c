@@ -2,7 +2,10 @@
 #include <stdlib.h>
 #include <time.h>
 
-/* main - print the status of a number whether positive, negative or zero */
+/** main - print the status of a number whether positive, negative or zero 
+ *  
+ *  description - assign random numbers to the variable and determine the status using the if else statement
+ * */
 
 
 int main(void)
