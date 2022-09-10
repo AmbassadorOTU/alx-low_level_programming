@@ -5,8 +5,9 @@
 int main(void)
 {
 	
-	//print the status of a number whether positive, negative or zero
-
+	/**
+	 * print the status of a number whether positive, negative or zero
+	*/
 
 	int n;
 
